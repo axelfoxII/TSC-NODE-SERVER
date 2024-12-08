@@ -1,6 +1,6 @@
 # Proyecto Increíble con NodeJs y Typescript 🚀
 
-Este es un proyecto para enseñar a crear u servidor con NodeJs y Typescript y para la base de datos usaremos un ORM Sequelize junto con Mysql, y haremos un CRUD completo de usuarios incluyendo la subida de imagenes tanto al servidor como a la base de datos.
+Este es un proyecto para enseñar a crear un servidor con NodeJs y Typescript y para la base de datos usaremos un ORM Sequelize junto con Mysql, y haremos un CRUD completo de usuarios incluyendo la subida de imagenes tanto al servidor como a la base de datos.
 
 ## REQUISTOS
 - [NodeJs] 
