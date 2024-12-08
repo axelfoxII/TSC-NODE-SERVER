@@ -46,7 +46,7 @@ class Server{
         this.app.use(cors());
         this.app.use(express.json());
         this.app.use(express.static('public'));
-        this.app.use('/uploads', express.static(path.join(__dirname, '../../uploads')));
+        this.app.use('/uploads', express.static(path.join(__dirname, 'uploads')));
         
         this.app.use((err:any, req:express.Request, res:express.Response, next:express.NextFunction)=>{
             
